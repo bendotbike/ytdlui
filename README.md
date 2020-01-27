@@ -12,7 +12,5 @@ a ui for youtube-dl
 ## build
 - Install ```youtube-dl``` and ```ffmpeg``` and add them to system path
 - Install the JDK (this program built w/ JDK 12)
-- Install the source
-
-```$ git clone https://github.com/bendotbike/ytdlui.git```
+- Install the source ```$ git clone https://github.com/bendotbike/ytdlui.git```
 - Open and build/run with your preferred IDE
